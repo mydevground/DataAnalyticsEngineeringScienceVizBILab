@@ -1,7 +1,7 @@
 # DataAnalytics/DataScienceLab
 
 ## List of Projects:
-* PysparkDataframe_Intro
+* PysparkDataframe
 * Sankey_using_plotly
 * Space_Missions_Data_Analysis
 * HR-Employee-Attrition-Data-Analytics
