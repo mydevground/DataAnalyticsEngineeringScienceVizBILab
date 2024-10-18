@@ -1,4 +1,4 @@
-# DataAnalytics/DataScienceLab
+# DataAnalytics-DataScience-Lab
 
 ## List of Projects:
 * PysparkDataframe_Intro: sample
