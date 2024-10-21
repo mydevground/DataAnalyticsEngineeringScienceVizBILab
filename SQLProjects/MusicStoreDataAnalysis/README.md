@@ -5,5 +5,6 @@ This project shows the analysis of music playlist database. The business questio
 more insights into the business.
 
 
-Schema- Music Store Database  
-![MusicDatabaseSchema]()
+Schema- Music Store Database:
+
+![MusicDatabaseSchema](https://github.com/mydevground/DataAnalyticsEngineeringScienceVizBILab/blob/f4adc51038b5cc5cc80f156381490d55a2c0bd50/SQLProjects/MusicStoreDataAnalysis/MusicDatabaseSchema.png)
