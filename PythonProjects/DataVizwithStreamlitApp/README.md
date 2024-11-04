@@ -1,3 +1,3 @@
 # Data Viz with Streamlit App
 
-<img src='/streamlit-logo_py' width=50%>
+<img src='/streamlit-logo_py.jpeg' width=50%>
