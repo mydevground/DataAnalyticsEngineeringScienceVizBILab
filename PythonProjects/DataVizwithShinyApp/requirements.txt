@@ -1,0 +1,9 @@
+pandas
+plotly
+shinywidgets
+seaborn
+altair
+anywidget
+folium
+matplotlib
+shiny
