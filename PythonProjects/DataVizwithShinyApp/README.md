@@ -3,6 +3,9 @@ Python project built using the Shiny Framework
 
 <img src='./assets/shiny.jpeg' width=50%>
 
+## Background breakdown
+<img src='./assets/ShinyforPython.JPG' width=50%>
+
 ## Sales Dashboard Project
 
 [Sales Dashboard Project](./sales)
