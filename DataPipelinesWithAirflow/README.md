@@ -1,5 +1,6 @@
-﻿# Data Engineering Nanodegree
+﻿# Data Engineering 
 ## Project: Data Pipelines with Airflow
+## Platform(Cloud): AWS
 ## Table of Contents
 * **Definition**
     * **Project Overview** :
@@ -11,7 +12,8 @@
 
    
 * **Design**
-![Sparkify Data Model](/images/SparfiyDAG.jpg)    
+  
+![Sparkify Data Model](/DataPipelinesWithAirflow/images/SparfiyDAG.jpg)    
 
-![Sparkify Data Model](/images/Pipelineview.jpg)   
+![Sparkify Data Model](/DataPipelinesWithAirflow/images/Pipelineview.jpg)   
 
